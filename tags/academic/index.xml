@@ -7,19 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 gloria scalzo (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mon premier blog</title>
+      <title>Ma vie d&#39;étudiante en biologie</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>/post/getting-started/</guid>
-      <description>Le contenu ici
-Un titre Du texte avec une partie en gras...</description>
+      <description>Ce site internet va contenir tout ce que je ferai d&#39;important et d&#39;impressionnant durant mes études à l&#39;université de Mons, et peut-être aussi dans une autre université, en erasmus par exemple, ainsi que ce que je ferai de notable durant ma carrière professionelle.</description>
     </item>
     
   </channel>

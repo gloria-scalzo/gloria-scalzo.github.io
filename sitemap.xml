@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/project/example-project/</loc>
+      <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-09-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/</loc>
       <lastmod>2018-09-24T18:43:00+00:00</lastmod>
     </url>
@@ -16,15 +34,6 @@
     
       <loc>/publication/</loc>
       <lastmod>2018-09-24T13:47:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-project/</loc>
-      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -50,15 +59,6 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-09-20T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -69,7 +69,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -107,7 +107,7 @@
     <url>
     
       <loc>/tags/biology/</loc>
-      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -137,7 +137,7 @@
     <url>
     
       <loc>/tags/science/</loc>
-      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

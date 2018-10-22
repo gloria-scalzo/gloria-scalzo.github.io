@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 gloria scalzo (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/biology/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>My project</title>
       <link>/project/example-project/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
       <description>Here I describe my project using Markdown formatting...</description>
