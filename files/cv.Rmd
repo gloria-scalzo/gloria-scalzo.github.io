@@ -1,6 +1,6 @@
 ---
 title: "CV"
-author: "gloria scalzo"
+author: "Gloria Scalzo"
 email: gloria.scalzo@student.umons.ac.be
 output:
   html_document:
@@ -12,7 +12,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
 geometry: margin=1in
-github: gloria-scalzo
+github: Gloria-Scalzo
 jobtitle: Etudiant à l'Université de Mons
 keywords: Biologie, Science des données
 linkcolor: purple
@@ -33,7 +33,7 @@ urlcolor: green
 
 # EMPLOIS
 
-*Job étudiant:*
+*Jobs étudiants :*
 
 - Etudiante au servive des ressources humaines chez Industeel Belgium \hfill juillet 2017
 - Etudiante chez Activate Mons pour UNICEF \hfill juillet-août 2017
