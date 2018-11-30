@@ -11,12 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My project</title>
+      <title>Queue de souriceau nouveau né</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+      <description>&lt;p&gt;Voici des clichés de queue de souriceau nouveau né vus au microscope optique.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/queue1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;../../img/queue2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;../../img/queue3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
